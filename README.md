@@ -1,12 +1,10 @@
 # AI Text Analysis Platform
 
-![](c:\Users\Zain\Desktop\Capture1.PNG)
-
 A comprehensive text analysis platform that offers multiple AI-powered text processing capabilities through a web API. This project showcases various text processing techniques using Python and is deployed on Railway.app.
 
 ## 🔗 Live Demo
 
-[View Live Demo](web-production-f09c.up.railway.app)
+[View Live Demo](https://web-production-f09c.up.railway.app/)
 
 ## ✨ Features
 
