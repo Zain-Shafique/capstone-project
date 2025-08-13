@@ -1,5 +1,6 @@
-setuptools==68.0.0
-wheel==0.41.0
+# Core dependencies with precise versioning
+setuptools>=65.5.0
+wheel>=0.38.4
 flask==2.3.3
 gunicorn==21.2.0
 textblob==0.17.1

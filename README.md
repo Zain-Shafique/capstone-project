@@ -40,6 +40,8 @@ A comprehensive text analysis platform that offers multiple AI-powered text proc
 text-analysis-platform/
 ├── app.py                  # Main Flask application
 ├── Procfile                # Railway deployment configuration
+├── railway.toml            # Railway specific configuration
+├── runtime.txt             # Python version specification
 ├── .gitignore              # Git ignore file
 ├── public/                 # Static frontend assets
 │   ├── index.html
